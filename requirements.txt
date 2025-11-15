@@ -1,0 +1,2 @@
+streamlit>=1.38.0 openai>=1.40.0 pdfminer.six>=20221105 faiss-cpu>=1.8.0
+numpy>=1.26.0 fpdf>=1.7.2
